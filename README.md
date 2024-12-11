@@ -22,7 +22,7 @@
 
 アニメ「しかのこのこのここしたんたん」とプログラミング言語 "Nyaruko" "Kemono" にインスパイアされて作られたプログラミング言語です。
 [r-fxxk](https://github.com/masarakki/r-fxxk) を用いて作成されました。
-作成にあたっての取り組みは Qiita に記載しています。
+作成にあたっての取り組みは [Qiita](https://qiita.com/skyblue-jpn/items/423134dee14de480241c) に記載しています。
 
 ## Spec
 
