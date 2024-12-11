@@ -1,0 +1,17 @@
+#!/usr/bin/env ruby
+# -*- coding: utf-8 -*-
+
+require 'r-fxxk'
+
+class Shikairo < Brainfuck
+  nxt "しか"
+  inc "のこ"
+  prv "こし"
+  dec "たん"
+  opn "ぬん。"
+  cls "ぬん！"
+  put "ぬーん"
+  get "ぬぅん"
+end
+
+puts Shikairo.new.fuck(ARGF.read)
