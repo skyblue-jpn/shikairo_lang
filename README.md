@@ -41,7 +41,9 @@ Brainfuck 系言語です。
 
 ## Sample
 
-```hello.deer
+**hello.deer**
+
+```
 のこのこのこのこのこのこのこのこのこのこ
 ぬん。
 しかのこのこのこ
@@ -64,11 +66,11 @@ Brainfuck 系言語です。
 しかしかしかぬーん
 ```
 
-_execute_
+**execute**
 
 > ./shikairo hello.deer
 
-_output_
+**output**
 
 > Hello World
 
